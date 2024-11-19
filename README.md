@@ -61,3 +61,7 @@ A Hadamard gate is then applied to the first qubit, and we make our measurement.
 - if we measure 1, the function must be constant, as $f(0) \neq f(1)$
 
 And using a single query, we have shown that a function is either constant or balanced.
+
+Deutch's algorithm is a specific case of the Deutch-Josza algorithm, which is concerned with a similar probem: determining wether a function is constant or balanced for an $n$ qubit register:
+
+$$f: [0, 1]^n = [0, 1]$$
