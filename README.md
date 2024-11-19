@@ -37,5 +37,4 @@ $$|\Psi_0\rangle = |01\rangle$$
 
 and then a Hadamard gate:
 
-$$|\Psi_1\rangle = |+-\rangle = \frac{1}{\sqrt{2}} (|0\rangle|-\rangle + |1\rangle|-\rangle)$$.
-
+$$|\Psi_1\rangle = |+-\rangle = \frac{1}{\sqrt{2}} (|0\rangle|-\rangle + |1\rangle|-\rangle)$$
