@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository uses IBM's quantum composer and the Qiskit SDK to implement Deutch's algorithm, one of the first demonstrations that quantum computation could be faster than classical at solving certain problems. Here, I build and explain a quantum circuit that demonstrates this algorithm.
+This repository describes Deutch's algorithm for future reference, one of the first demonstrations that quantum computation could be faster than classical at solving certain problems. This may be used for reference as I explore more complicated algorithms, and was created as a way of instilling this knowledge into my memory.
 
 ## The Circuit:
 
