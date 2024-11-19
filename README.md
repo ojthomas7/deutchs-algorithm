@@ -10,7 +10,7 @@ This repository uses IBM's quantum composer and the Qiskit SDK to implement Deut
   <img src="deutch.jpeg" alt="Image 1" width="600"/>
 </p>
 <p align = "center">
-<i>Quantum teleportation circuit, created with IBM composer and the Qiskit SDK. An arbitrary qubit interacts with an entangled Bell state via a CNOT followed by a Hadamard gate. Measurements are made of the arbitrary qubit and one half of the EPR pair, and the relavant transformations are made to the second half of the EPR pair depending on the results of this measurement.</i>
+<i>Circuit implementing Deutch's algorithm from Nielsen and Chuangs Quantum Computation and Quantum Information</i>
 </p> 
 
 ## The Algorithm:
