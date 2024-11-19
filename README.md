@@ -46,3 +46,9 @@ $$U_f|x\rangle|-\rangle = (-1)^{f(x)}|x\rangle|-\rangle$$
 So therefore:
 
 $$|\Psi_2 = \frac{1}{\sqrt{2}}((-1)^{f(0)}|0\rangle|-\rangle + (-1)^{f(1)}|1\rangle|-\rangle)$$
+
+We simplify this by factoring out and omitting our $|-\rangle$ state as it is not required form here on.
+
+## Results:
+
+We now consider our two cases: where $f(0) = f(1)$ or $f(0) \neq f(1)$.
