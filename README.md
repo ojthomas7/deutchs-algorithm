@@ -52,3 +52,12 @@ We simplify this by factoring out and omitting our $|-\rangle$ state as it is no
 ## Results:
 
 We now consider our two cases: where $f(0) = f(1)$ or $f(0) \neq f(1)$.
+
+We find that our state $|\Psi_2\rangle$ state becomes $|\Psi_2\rangle = \pm |+\rangle$ for $f(0) = f(1)$, and $|\Psi_2\rangle = \pm |-\rangle$ for $f(0) \neq f(1)$.
+
+A Hadamard gate is then applied to the first qubit, and we make our measurement. Then:
+
+- if we measure 0, then the function must be balanced as $f(0) = f(1)$
+- if we measure 1, the function must be constant, as $f(0) \neq f(1)$
+
+And using a single query, we have shown that a function is either constant or balanced.
