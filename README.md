@@ -38,3 +38,11 @@ $$|\Psi_0\rangle = |01\rangle$$
 and then a Hadamard gate:
 
 $$|\Psi_1\rangle = |+-\rangle = \frac{1}{\sqrt{2}} (|0\rangle|-\rangle + |1\rangle|-\rangle)$$
+
+Which is where we query our oracle, $U_f$. We find that this is in the form of a phase oracle with phase kickback:
+
+$$U_f|x\rangle|-\rangle = (-1)^{f(x)}|x\rangle|-\rangle$$
+
+So therefore:
+
+$$|\Psi_2 = \frac{1}{\sqrt{2}}((-1)^{f(0)}|0\rangle|-\rangle + (-1)^{f(1)}|1\rangle|-\rangle)$$
