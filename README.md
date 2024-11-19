@@ -17,4 +17,6 @@ This repository uses IBM's quantum composer and the Qiskit SDK to implement Deut
 
 Consider a case where we want to determine wether a function is constant. We have a function:
 
-$$f: \{0, 1 \} \to \{ 0, 1 \}$$
+$$f: [0, 1] \to [0, 1]$$
+
+Which takes an input of euther 0 or 1 and returns either 0 or 1. If this function were balanced, it would have as many outputs for 0 as it did for 1, and if it were constant it would either output only 0 or only 1.
