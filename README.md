@@ -17,4 +17,4 @@ This repository uses IBM's quantum composer and the Qiskit SDK to implement Deut
 
 Consider a case where we want to determine wether a function is constant. We have a function:
 
-$$f:{0, 1} \to {0, 1}$$
+$$f: \{0, 1 \} \to \{ 0, 1 \}$$
